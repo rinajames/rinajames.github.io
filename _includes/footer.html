@@ -1,16 +1,49 @@
-<footer class="pt-5 my-5 text-muted border-top">
-  <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
-      {% for item in site.data.settings.social %}
-        {% assign is_email = item.link contains 'mailto:' %}
-        <a href="{{ item.link }}"
-           class="ms-3 fs-5"
-           {% unless is_email %}target="_blank" rel="noopener"{% endunless %}
-           title="{{ item.icon | capitalize }}">
-           
-          <i class="{% if is_email %}fas{% else %}fab{% endif %} fa-{{ item.icon }}"></i>
-        </a>
-      {% endfor %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Footer with Icons</title>
+  <!-- Font Awesome 5.15.3 CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <style>
+    footer {
+      background-color: #f8f9fa;
+      text-align: center;
+      padding: 20px 0;
+      font-family: Arial, sans-serif;
+    }
+    .social-icons a {
+      margin: 0 15px;
+      color: #333;
+      text-decoration: none;
+      font-size: 24px;
+      transition: color 0.3s;
+    }
+    .social-icons a:hover {
+      color: #0077b5; /* LinkedIn blue as example */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Footer -->
+  <footer>
+    <div class="social-icons">
+      <a href="https://github.com/rinajames" target="_blank" aria-label="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?user=rhXcIq4AAAAJ&hl=en" target="_blank" aria-label="Google Scholar">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+      <a href="https://linkedin.com/in/rinajames" target="_blank" aria-label="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="mailto:rinajamesmx@gmail.com" aria-label="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
     </div>
-  </div>
-</footer>
+    <p>&copy; 2025 Your Name. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
