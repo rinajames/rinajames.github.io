@@ -13,8 +13,8 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/rinajames'}
-- {icon: 'inbox', link: 'https://linkedin.com/in/rinajames'}
-- {icon: 'inbox', link: 'mailto:rinajamesmx@gmail.com'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/rinajames'}
+- {icon: 'square-envelope', link: 'mailto:rinajamesmx@gmail.com'}
 
 contacts:
 - {name: 'Rina James', email: 'rinajamesmx@gmail.com', LinkedIn: '/rinajames'}
