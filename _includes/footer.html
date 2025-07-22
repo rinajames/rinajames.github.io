@@ -2,11 +2,10 @@
   <div class="row">
     <div class="col-md-6 text-end social-media-icons">
       {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="ms-3 fs-5" 
-           {% unless item.link contains 'mailto:' %}target="_blank" rel="noopener"{% endunless %}
+        <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i>
+         {% unless item.link contains 'mailto:' %}target="_blank" rel="noopener"{% endunless %}
            title="{{ item.icon | capitalize }}">
-          <i class="fa{% if item.icon == 'envelope' %}s{% else %}b{% endif %} fa-{{ item.icon }}"></i>
-        </a>
+          <i class="fa{% if item.icon == 'envelope' %}s{% else %}b{% endif %} fa-{{ item.icon }}"></i></a>
       {% endfor %}
     </div>
   </div>
