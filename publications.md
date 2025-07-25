@@ -27,20 +27,20 @@ title: "Publications"
 
 **Conference Presentations** 
 
-2023. “Radicalization Pathways in the Online Context: Accounting for User Trajectories Across Extremist Spaces.” _American Sociological Association Conference_, Philadelphia, PA. August 2023. 
+“Radicalization Pathways in the Online Context: Accounting for User Trajectories Across Extremist Spaces.” _American Sociological Association Conference_, Philadelphia, PA. August 2023. 
  
-2023. “Migrants of the Manosphere: Accounting for User Trajectories Across Male Supremacist Spaces.” _Young Scholars in Social Movements Mini-Conference_, University of Notre Dame. April 2023.  
+“Migrants of the Manosphere: Accounting for User Trajectories Across Male Supremacist Spaces.” _Young Scholars in Social Movements Mini-Conference_, University of Notre Dame. April 2023.  
  
-2022. ““Underage” Protest: Explaining Protests at K-12 Schools in the US, 2017-2021.” (With Jennifer Earl.) _American Sociological Association Conference_, Los Angeles, CA. August 2022. 
+““Underage” Protest: Explaining Protests at K-12 Schools in the US, 2017-2021.” (With Jennifer Earl.) _American Sociological Association Conference_, Los Angeles, CA. August 2022. 
 
-2021. “'White Women Prefer White Men’: Race and Gender on r/Incels.” _American Sociological Association Conference_, Online. August 2021. 
+“'White Women Prefer White Men’: Race and Gender on r/Incels.” _American Sociological Association Conference_, Online. August 2021. 
 
-2021. “Conservativism and Pandemic Lifestyles.” (With Terrence Hill, Kelsey E. Gonzalez, Amy M. Burdette, Andrew P. Davis, Eric J. Bjorklund, and Laura Upinieks.) _Advancing Health Lifestyles Research Mini-Conference_, University of Colorado – Boulder. February 2021.
+“Conservativism and Pandemic Lifestyles.” (With Terrence Hill, Kelsey E. Gonzalez, Amy M. Burdette, Andrew P. Davis, Eric J. Bjorklund, and Laura Upinieks.) _Advancing Health Lifestyles Research Mini-Conference_, University of Colorado – Boulder. February 2021.
 
-2020. “Theorizing the Manosphere: Ideological Variation in Misogynist Online Communities.” _Sociologists for Women in Society Winter Meeting_, San Diego, CA. January 2020.
+“Theorizing the Manosphere: Ideological Variation in Misogynist Online Communities.” _Sociologists for Women in Society Winter Meeting_, San Diego, CA. January 2020.
 
-2017. “The Efficacy of Virtual Protest: Linking Digital Tactics to Outcomes in Activist Campaigns.” _Pacific Sociological Association Annual Meeting_, Portland, OR. March 2017.
+“The Efficacy of Virtual Protest: Linking Digital Tactics to Outcomes in Activist Campaigns.” _Pacific Sociological Association Annual Meeting_, Portland, OR. March 2017.
 
-2017. “Teaching Sociological Thinking: A Coursewise Look at What Works.” (With Robert Liebman.) _Pacific Sociological Association Annual Meeting_, Portland, OR. March 2017.
+“Teaching Sociological Thinking: A Coursewise Look at What Works.” (With Robert Liebman.) _Pacific Sociological Association Annual Meeting_, Portland, OR. March 2017.
 
-2016. “Digital Media and Social Movements: The Impact of Movement Type on the Relationships Between Digital Participation and Activism.” _Pacific Sociological Association Annual Meeting_, Oakland, CA. March 2016.
+“Digital Media and Social Movements: The Impact of Movement Type on the Relationships Between Digital Participation and Activism.” _Pacific Sociological Association Annual Meeting_, Oakland, CA. March 2016.
