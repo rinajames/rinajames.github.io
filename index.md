@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-I am a PhD candidate in Sociology at the University of Arizona, working at the intersection of gender, online engagement, and far-right politics. Methodologically, I specialize in big data, data wrangling, and advanced quantitative methods including multilevel modeling and survival analysis. In my dissertation research, I draw on computational and quantitative methods in Python and Stata to analyze radicalization-related outcomes for 1 million+ users active in secular male supremacist Reddit communities.
+I'm a PhD candidate in Sociology at the University of Arizona with a background in data wrangling, advanced quantitative methods, and computational social science. I excel at data cleaning, preparation, and analysis, and in using derived data to glean new insights from existing sources—my most recent research uses Reddit post data to map user trajectories across, and churn within, far-right male supremacist communities, in order to inform intervention efforts and platform policies around extremism. Currently, I'm seeking industry and alt-ac roles that use complex data to tackle prominent social issues. 
 
-Messy data is my first love–I enjoy creating order from chaos, and translating unwieldy datasets into actionable insights. Currently, I’m seeking roles where I can leverage my experience working with large, complex data in order to solve real-world problems that serve the social good.
+
