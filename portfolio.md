@@ -11,7 +11,7 @@ In my dissertation research, I analyzed user engagement in far-right male suprem
 **Blend Beauty Voice of the Customer Analysis**   
 
 In this UX bootcamp project, my team examined a 14% decline in subscription memberships for an online makeup retailer to determine whether churn was driven by internal or external factors. We designed a survey of 3000 current and 1350 previous customers to determine that the primary issue was low perceived value, with 30% of customers saying the service was too expensive for the perks offered.  We then designed a slide deck summarizing survey results for the executive team, and proposed an A/B test evaluating whether the introduction of different membership tiers would impact retention rates for current customers and support business growth in the face of declining subscription memberships.  
-- [[C-Suite Presentation]](/documents/blend_beauty.pdf) 
+- [[C-Suite Presentation]](/documents/blend_beauty.pdf)
 
 **Strauf's Cafe Expansion**
 
