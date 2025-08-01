@@ -1,5 +1,5 @@
 menu:
-- {name: 'cv-resume', url: '/cv-resume'}
+- {name: 'cv/resume', url: '/cv-resume'}
 - {name: 'publications', url: '/publications'}
 - {name: 'portfolio', url: '/portfolio'}
 - {name: 'teaching', url: '/teaching'}
