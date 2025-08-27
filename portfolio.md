@@ -13,6 +13,10 @@ In my dissertation research, I analyzed user engagement in far-right male suprem
 In this UX bootcamp project, my team examined a 14% decline in subscription memberships for an online makeup retailer to determine whether churn was driven by internal or external factors. We designed a survey of 3000 current and 1350 previous customers to determine that the primary issue was low perceived value, with 30% of customers saying the service was too expensive for the perks offered.  We then designed a slide deck summarizing survey results for the executive team, and proposed an A/B test evaluating whether the introduction of different membership tiers would impact retention rates for current customers and support business growth in the face of declining subscription memberships.  
 - [[C-Suite Presentation]](/documents/blend_beauty.pdf)
 
+**Paws Out Website Conversion**
+
+In this UX bootcamp project, my team was tasked with improving website conversions for Paws Out, an online pet retailer. We noticed that cart abandonment rates were 6% higher than everage, especially on mobile. To understand why, we conducted focus groups with 50 users and developed 3 user personas. Focusing on one persona, we created a storyboard for the executive team to visualize where trust breaks down in the current checkout flow. Each storyboard frame was paired with relection questions and potential solutions for stakeholders to see where improvements could have a real impact. 
+
 **Strauf's Cafe Expansion**
 
 For this UX bootcamp project, my team’s goal was to identify the viability of expanding operating hours and offerings at a campus coffee shop near Ohio State University. We acquired data from OSU demographic reports, competitor reviews, and employee/customer surveys to determine market demand, and identified that 74% of potential customers were interested in late-night spaces offering coffee and alcohol.  
