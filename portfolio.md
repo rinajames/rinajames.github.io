@@ -6,7 +6,7 @@ title: "Portfolio"
 **Radicalization in the Online Context: Accounting for User Trajectories Across Extremist Spaces**
 
 In my dissertation research, I analyzed user engagement in far-right male supremacist communities on Reddit to predict radicalization-related outcomes. Data on more than 31 million Reddit submissions and comments was extracted from compressed JSON files using Python, and imported into Stata for analysis. Through negative binomial regression and survival analysis of derived data for 1,100,554 unique user profiles, I determined individual and community level factors driving migration into more extreme far-right spaces; in particular, findings highlighted that the odds of migration into more extreme communities were 40% higher for users impacted by platform-level sanctions such as community quarantines or bans. 
-- [[PDF]](/documents/diss.pdf)
+- [[PDF]](/documents/dissertation.pdf)
 
 **Blend Beauty Voice of the Customer Analysis**   
 
