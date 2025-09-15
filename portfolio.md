@@ -15,7 +15,8 @@ In this UX bootcamp project, my team examined a 14% decline in subscription memb
 
 **Paws Out Website Conversion**
 
-In this UX bootcamp project, my team was tasked with improving website conversions for Paws Out, an online pet retailer. We noticed that cart abandonment rates were 6% higher than everage, especially on mobile. To understand why, we conducted focus groups with 50 users and developed 3 user personas. Focusing on one persona, we created a storyboard for the executive team to visualize where trust breaks down in the current checkout flow. Each storyboard frame was paired with relection questions and potential solutions for stakeholders to see where improvements could have a real impact. 
+In this UX bootcamp project, my team was tasked with improving website conversions for Paws Out, an online pet retailer. We noticed that cart abandonment rates were 6% higher than average, especially on mobile. To understand why, we conducted focus groups with 50 users and developed 3 user personas. Focusing on one persona, we created a storyboard for the executive team to visualize where trust breaks down in the current checkout flow. Each storyboard frame was paired with reflection questions and potential solutions for stakeholders to see where improvements could have a real impact. 
+- [[Summary, Personas, and Storyboard]](/documents/conversion.pdf)
 
 **Strauf's Cafe Expansion**
 
